@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">maps_kotlin</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps_wisata_activity">MapsWisataActivity</string>
+    <string name="title_activity_detail_wisata_maps">DetailWisataMapsActivity</string>
+    <string name="API_KEY_MAP">AIzaSyDmcFQcfxTCl7h8RzE7NJgvh8LQLzZFtmY</string>
+</resources>
